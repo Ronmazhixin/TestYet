@@ -8,5 +8,10 @@ namespace _3DTransform
 {
     class Class1
     {
+        public void Sprintsss()
+        {
+            Console.WriteLine("添加一句代码");
+            Console.ReadKey();
+        }
     }
 }
